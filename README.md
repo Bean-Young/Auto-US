@@ -44,7 +44,7 @@ To enhance the generalization capability of our model, we integrated 20 videos o
 
 [Download Link](https://github.com/983632847/USCL)
 
-In summary, the composition of the comprehensive dataset we constructed is shown in the table below:
+**In summary, the composition of the comprehensive dataset we constructed is shown in the table below:**
 
 | Dataset     | Class                             | Sample   |
 | :---------- | :-------------------------------- | :------- |
