@@ -1,6 +1,6 @@
 # Auto-US
 
-This project was created by ***Yuezhe Yang*** for the paper **"Auto-US: An Ultrasound Video Diagnosis Agent Using Video Classification Framework and LLMs"** [Paper Link](http://exemple.com).
+This project was created by [***Yuezhe Yang***](https://bean-young.github.io) for the paper **"Auto-US: An Ultrasound Video Diagnosis Agent Using Video Classification Framework and LLMs"** [Paper Link](http://exemple.com).
 
 ### Abstract
 
