@@ -32,7 +32,7 @@ Additional Information:<Additional_Info>
 
 ### Test Cases
 
-We have tested **two real clinical cases**, and the inputs and outputs are recorded in the [case.docx](./case.docx) file. These cases demonstrate the **application and accuracy of the intelligent agent in actual clinical settings.**
+We have tested **two real clinical cases**, and the inputs and outputs are recorded in the [cases.docx](./cases.docx) file. These cases demonstrate the **application and accuracy of the intelligent agent in actual clinical settings.**
 
 ###  Evaluate criterion
 
