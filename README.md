@@ -53,32 +53,5 @@ To enhance the generalization capability of our model, we **integrated 20 videos
 | POCUS       | COVID-19 / Bacterial Pneumonia    | 33 / 36  |
 | Butterfly   | COVID-19 Pneumonia                | 20       |
 
-### Data Preprocessing
 
-bala，npy……
-
-### Usage
-
-#### Installation
-
-##### requirements
-
-- Pytorch 2.0 (CUDA 11.8)
-- For details on the environment, please refer to the requirements.txt file.
-
-#### Training
-
-#### Inference
-
-### Results
-
-### Bibtex
-
-If you use this code or found it helpful, please consider citing:
-
-```
-@example{
-
-}
-
-```
+**Code will coming soon……**
